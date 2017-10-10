@@ -1,0 +1,50 @@
+h1 {
+  color: grey;
+  text-align: center;
+  font-style: oblique;
+}
+h2 {
+  font-style: italic;
+  text-align: left;
+}
+p {
+  font-family: monospace;
+  font-size: 30px;
+  line-height: 40px;
+  text-shadow: 2px 2px 5px #39dc3b;
+}
+ul, ol {
+  font-size: 20px;
+  line-height: 30px;
+  border-style: dashed;
+  border-width: 5px;
+  margin: 10px;
+}
+li {
+  font-family: monospace;
+  border-style: solid;
+  border-width: 5px;
+  margin: 5px;
+  padding-left: 5px;
+
+}
+
+.border-off {
+  border-style: none;
+}
+body {
+  background-color: lightblue;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-width: 6px;
+  border-color: gold;
+  border-style: solid;
+}
+html {
+  background-color: red;
+}
+.margin {
+  margin: 30px;
+}
